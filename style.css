@@ -1,0 +1,15 @@
+html{ 
+background: #222;
+color:aquamarine;
+  max-width: 500px;
+  margin: auto;}
+
+
+button {     
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
+    float: center;
+}
+
